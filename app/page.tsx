@@ -46,11 +46,12 @@ export default function LoginPage() {
         
         {/* Logo Section */}
         <div className="flex flex-col items-center mb-8">
-           <div className="w-24 h-24 bg-gradient-to-br from-blue-400 to-blue-700 rounded-3xl mb-4 flex items-center justify-center shadow-[0_0_30px_rgba(37,99,235,0.4)]">
-              <span className="text-white font-bold text-3xl">+</span>
+           <div className="w-60 h-30 ">
+               <img src="/dadwa.png" alt="GoFeed Platform" className=" opacity-95" />
            </div>
-           <h1 className="text-3xl font-bold tracking-tight">PREDETECT</h1>
-           <p className="text-[10px] tracking-[0.3em] text-gray-400 uppercase mt-1">Early Diagnosing</p>
+         
+           <h1 className="text-3xl font-bold tracking-tight"></h1>
+           <p className="text-[10px] tracking-[0.3em] text-gray-400 uppercase mt-1"></p>
         </div>
 
         <div className="mb-6">
