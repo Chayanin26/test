@@ -9,8 +9,8 @@ export default function ServicesPage() {
 
   const services = [
     { title: "ปรึกษาโรคทั่วไป", subtitle: "Primary Care", img: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80" },
-    { title: "แผนกมะเร็ง", subtitle: "Oncology Center", img: "https://images.unsplash.com/photo-1579684385127-1ecd15d5bfbcc?w=800&q=80" },
-    { title: "แพ็กเกจตรวจโรค", subtitle: "Health Check-up", img: "https://images.unsplash.com/photo-1584982206167-73d09a56c2d4?w=800&q=80" },
+    { title: "แผนกมะเร็ง", subtitle: "Oncology Center", img: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&q=80" },
+    { title: "แพ็กเกจตรวจโรค", subtitle: "Health Check-up", img: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&q=80" },
     { title: "ประวัติส่วนบุคคล", subtitle: "Personal History", img: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&q=80" },
     { title: "คลินิกเฉพาะทาง", subtitle: "Specialist Clinics", img: "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=800&q=80" },
   ];

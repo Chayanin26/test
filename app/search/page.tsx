@@ -11,8 +11,8 @@ export default function SearchPage() {
   // ข้อมูลโรงพยาบาลพร้อมรูปภาพ Mockup
   const hospitals = [
     { name: "โรงพยาบาลบีแคร์", location: "กรุงเทพมหานคร", img: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80" },
-    { name: "โรงพยาบาลภูมิพล", location: "กรุงเทพมหานคร, เขต XXX", img: "https://images.unsplash.com/photo-1586773860418-d37222d8dfde?w=800&q=80" },
-    { name: "โรงพยาบาลสินแพทย์", location: "ชลบุรี, อ.XXX", img: "https://images.unsplash.com/photo-1538108149393-fbbd8183178e?w=800&q=80" },
+    { name: "โรงพยาบาลภูมิพล", location: "กรุงเทพมหานคร, เขต XXX", img: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80" },
+    { name: "โรงพยาบาลสินแพทย์", location: "ชลบุรี, อ.XXX", img: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80" },
   ];
 
   const filteredHospitals = hospitals.filter(h => 
